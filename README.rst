@@ -2,8 +2,6 @@
 pysros plugin for Nornir
 ========================
 
-|project|_ |version|_ |coverage|_ |tag|_ |license|_
-
 This repository contains GNMI plugin for Nornir leveraging pyGNMI library
 
 =====
